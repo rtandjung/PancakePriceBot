@@ -7,7 +7,10 @@ Maven 3.6.3
 
 ## Usage
 
-Just import this project
+0. Import project;
+1. Edit com.rtandjung.pancakepricebot.BotPolling class;
+2. Change value BOT_USERNAME;
+3. Change valie BOT_TOKEN;
   
 ## Donate
 
